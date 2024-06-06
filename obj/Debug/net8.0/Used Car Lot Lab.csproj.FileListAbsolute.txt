@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\Used-Car-Lot-Lab\Used Car Lot Lab\bin\Debug\net8.0\Used Car Lot Lab.exe
+C:\Users\Admin\source\repos\Used-Car-Lot-Lab\Used Car Lot Lab\bin\Debug\net8.0\Used Car Lot Lab.deps.json
+C:\Users\Admin\source\repos\Used-Car-Lot-Lab\Used Car Lot Lab\bin\Debug\net8.0\Used Car Lot Lab.runtimeconfig.json
+C:\Users\Admin\source\repos\Used-Car-Lot-Lab\Used Car Lot Lab\bin\Debug\net8.0\Used Car Lot Lab.dll
+C:\Users\Admin\source\repos\Used-Car-Lot-Lab\Used Car Lot Lab\bin\Debug\net8.0\Used Car Lot Lab.pdb
+C:\Users\Admin\source\repos\Used-Car-Lot-Lab\Used Car Lot Lab\obj\Debug\net8.0\Used Car Lot Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Used-Car-Lot-Lab\Used Car Lot Lab\obj\Debug\net8.0\Used Car Lot Lab.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Used-Car-Lot-Lab\Used Car Lot Lab\obj\Debug\net8.0\Used Car Lot Lab.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Used-Car-Lot-Lab\Used Car Lot Lab\obj\Debug\net8.0\Used Car Lot Lab.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Used-Car-Lot-Lab\Used Car Lot Lab\obj\Debug\net8.0\Used Car Lot Lab.sourcelink.json
+C:\Users\Admin\source\repos\Used-Car-Lot-Lab\Used Car Lot Lab\obj\Debug\net8.0\Used Car Lot Lab.dll
+C:\Users\Admin\source\repos\Used-Car-Lot-Lab\Used Car Lot Lab\obj\Debug\net8.0\refint\Used Car Lot Lab.dll
+C:\Users\Admin\source\repos\Used-Car-Lot-Lab\Used Car Lot Lab\obj\Debug\net8.0\Used Car Lot Lab.pdb
+C:\Users\Admin\source\repos\Used-Car-Lot-Lab\Used Car Lot Lab\obj\Debug\net8.0\Used Car Lot Lab.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Used-Car-Lot-Lab\Used Car Lot Lab\obj\Debug\net8.0\ref\Used Car Lot Lab.dll
